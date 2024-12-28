@@ -1,4 +1,4 @@
-**Hey 👋! Nice to see you.**  
+## **Hey 👋! Nice to see you.**  
 Welcome to my page!  
 
 I'm **Nguyen Trung Tinh**, a passionate **Java Backend Developer** from Ho Chi Minh City, Vietnam.  
