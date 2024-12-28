@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey 👋! Nice to see you.
+Welcome to my page!
 
-<!--
-**nguyentrungtinh2003/nguyentrungtinh2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nguyen Trung Tinh, a passionate Java Backend Developer from Ho Chi Minh City, Vietnam.
+I love technology and enjoy exploring and learning new things every day.
 
-Here are some ideas to get you started:
+🔧 My Skillset:
+Frontend: HTML, CSS, JavaScript, React, Bootstrap
+Backend: Java, Spring Boot, WebSocket, API Development, JPA, Hibernate, JWT, OAuth2
+Database: MySQL, SQL Server
+Tools: Git, Postman, Swagger, Docker, Jira
+Operating Systems: Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: [Your Email or LinkedIn].
+⚡ Fun fact: I’m always curious to dive into new technologies, and I believe every problem is an opportunity to grow.
+
+Looking forward to connecting with you! 😊
