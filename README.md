@@ -19,7 +19,7 @@ I love technology and enjoy exploring and learning new things every day.
 ### **Tools**  
 ![Git](https://img.shields.io/badge/Git-%23F14E32?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%23005B96?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-%236DB33F?style=for-the-badge&logo=swagger&logoColor=white)
 
-📫 How to reach me: [Your Email or LinkedIn].  
+📫 How to reach me: Email : trungtinhn300@gmail.com or LinkedIn : https://www.linkedin.com/in/nguyen-trung-tinh-513a70337/.  
 ⚡ Fun fact: I’m always curious to dive into new technologies, and I believe every problem is an opportunity to grow.  
 
 Looking forward to connecting with you! 😊
